@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883042513718",
+    "project_id": "renovamatch-fc1uey",
+    "storage_bucket": "renovamatch-fc1uey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883042513718:android:e36f1e6ec2c5292ff4b997",
+        "android_client_info": {
+          "package_name": "com.mycompany.renovamatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBitrhM1jy3AZak4Qwv7SxyYnPmZL-6X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
